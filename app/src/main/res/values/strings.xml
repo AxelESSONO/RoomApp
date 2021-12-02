@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RoomApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="firstname">Votre prénom</string>
+    <string name="lastname">Votre nom</string>
+</resources>
